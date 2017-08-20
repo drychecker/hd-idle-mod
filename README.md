@@ -13,3 +13,4 @@ sudo nano /etc/default/hd-idle
 
 Launch:
 sudo service hd-idle restart
+
